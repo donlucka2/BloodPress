@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">Blood</string>
     <string name="action_settings">Settings</string>
+
+
+    <!-- layout -->
+    <string name="sys">SYS</string>
+    <string name="mmhg">mmHg</string>
+    <string name="dia">DIA</string>
+    <string name="pul">PUL</string>
+    <string name="min">/min</string>
+    <string name="sysHint">120</string>
+    <string name="diaHint">80</string>
+    <string name="pulsHint">81</string>
+
+
 </resources>
