@@ -92,4 +92,7 @@
             android:layout_marginStart="60dp" app:layout_constraintStart_toEndOf="@+id/tvDia"
             android:fontFamily="@font/roboto_mono_bold"/>
 
+
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
